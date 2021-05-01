@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Calculatrice.dir/sources/main.c.o CMakeFiles/Calculatrice.dir/sources/addition.c.o CMakeFiles/Calculatrice.dir/sources/soustraction.c.o CMakeFiles/Calculatrice.dir/sources/multiplication.c.o CMakeFiles/Calculatrice.dir/sources/division.c.o -o Calculatrice 
